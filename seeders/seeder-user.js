@@ -10,7 +10,7 @@ module.exports = {
         lastName: 'Does',
         address: 'VN',
         gender: 1,
-        rodeId:'rode 1',
+        roleId:'1',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
